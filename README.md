@@ -272,4 +272,4 @@ This repository serves as the official landing page for BlueStacks. The software
 **Get the most recent version of BlueStacks today!**
 
 ---
-**Last updated:** 2026-10-03 20:52:42 UTC
+**Last updated:** 2026-10-03 23:41:13 UTC
